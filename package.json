@@ -1,6 +1,6 @@
 {
   "name": "my-v0-project",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "packageManager": "pnpm@8.15.8",
   "scripts": {
@@ -10,7 +10,7 @@
     "start": "next start"
   },
   "engines": {
-    "node": "20.x"
+    "node": "18.x"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
